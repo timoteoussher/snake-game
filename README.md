@@ -8,6 +8,9 @@ A classic Snake game built with HTML5 Canvas and JavaScript.
 3. Avoid hitting the walls or yourself
 4. Press Space to restart when game is over
 
+## Play Online
+You can play the game online at: https://timoteoussher.github.io/snake-game
+
 ## How to Run Locally
 1. Clone or download this repository
 2. Navigate to the project directory
